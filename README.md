@@ -1,6 +1,5 @@
 Got it. I’ve revised your README to be **human-readable, natural, clear, and professional** with extra useful badges included. Here’s the final version:
 
-```markdown
 # JS for React ⚡
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/UsamaBashir786/Javascript-for-react)
@@ -13,7 +12,6 @@ Got it. I’ve revised your README to be **human-readable, natural, clear, and p
 
 A **practical, structured collection of JavaScript concepts** you need to know before diving deep into React. This repo focuses on real-world examples and patterns that make learning React easier and faster.
 
----
 
 ## 🔹 Features
 - Covers **core JS concepts** used in React: ES6+, functions, arrays, objects, modules, async JS
