@@ -1,4 +1,3 @@
-```markdown
 # JavaScript for React ⚡
 
 ![GitHub stars](https://img.shields.io/github/stars/UsamaBashir786/Javascript-for-react?style=social)
