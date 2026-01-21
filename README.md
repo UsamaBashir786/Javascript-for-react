@@ -1,14 +1,13 @@
-```markdown
 # JavaScript for React ⚡
 
-
-## What's Inside
 [![GitHub stars](https://img.shields.io/github/stars/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/network/members)
 [![License](https://img.shields.io/github/license/UsamaBashir786/Javascript-for-react)](https://github.com/UsamaBashir786/Javascript-for-react/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/UsamaBashir786/Javascript-for-react)](https://github.com/UsamaBashir786/Javascript-for-react/commits/main)
 
 A practical guide to the JavaScript concepts you need before learning React. No fluff, just the essentials.
+
+## What's Inside
 
 This repo covers the JS fundamentals that React uses constantly:
 
