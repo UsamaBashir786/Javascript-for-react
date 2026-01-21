@@ -1,3 +1,4 @@
+## README.md
 # JavaScript for React ⚡
 
 [![GitHub stars](https://img.shields.io/github/stars/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/stargazers)
@@ -45,6 +46,15 @@ js-for-react/
 
 ## License
 
+MIT - See [LICENSE](LICENSE) file for details.
+
+---
+
+Made for developers who want to learn React the right way – by understanding the JavaScript behind it first.
+```
+
+## LICENSE
+```
 MIT License
 
 Copyright (c) 2025 Usama Bashir
@@ -66,4 +76,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
 ---
