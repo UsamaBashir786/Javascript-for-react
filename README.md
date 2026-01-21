@@ -50,4 +50,4 @@ MIT - See [LICENSE](LICENSE) file for details.
 
 ---
 Made for developers who want to learn React the right way – by understanding the JavaScript behind it first.
-``` 
+
