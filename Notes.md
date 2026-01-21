@@ -9,7 +9,7 @@ This repo covers the JS fundamentals that React uses constantly:
 - **Variables** – `const`, `let`, `var`  
 - **Functions & Arrow Functions** – reusable logic, concise syntax, auto return  
 - **Arrays** – basic operations, immutability  
-- **Array Methods** – `map`, `filter`, `reduce`  
+- **Array Methods** – `map`, `filter`, `reduce`, `find`  
 - **React Mindset** – how JS concepts apply to React  
 
 ---
@@ -50,9 +50,15 @@ This repo covers the JS fundamentals that React uses constantly:
 - Accumulator = running total  
 - React use → totals, aggregate calculations  
 
-### 8. Overall Mindset
+### 8. find()
+- Returns **first element** matching a condition  
+- Stops after first match → more efficient than filter for single item  
+- Original array unchanged → React-friendly  
+- React use → select a single item (e.g., selected user or product)  
+
+### 9. Overall Mindset
 - Strong JS basics = easier React learning  
-- Functional programming mindset → map, filter, reduce  
+- Functional programming mindset → map, filter, reduce, find  
 - Use `const` & arrow functions for React-friendly code  
 
 ---
