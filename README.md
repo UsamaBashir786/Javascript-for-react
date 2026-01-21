@@ -1,9 +1,11 @@
 # JavaScript for React ⚡
 
-[![GitHub stars](https://img.shields.io/github/stars/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/network/members)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Last Commit](https://img.shields.io/github/last-commit/UsamaBashir786/Javascript-for-react)](https://github.com/UsamaBashir786/Javascript-for-react/commits/main)  
+# JavaScript for React ⚡
+
+[![GitHub stars](https://img.shields.io/github/stars/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/UsamaBashir786/Javascript-for-react?style=social)](https://github.com/UsamaBashir786/Javascript-for-react/network/members) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![Last Commit](https://img.shields.io/github/last-commit/UsamaBashir786/Javascript-for-react)](https://github.com/UsamaBashir786/Javascript-for-react/commits/main)
 
 A hands-on guide to the essential JavaScript concepts you need **before diving into React**. No fluff—just the concepts you’ll use daily.  
 
