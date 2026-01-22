@@ -55,7 +55,7 @@ js-for-react/
 ├── 05-modules/         # Import/export
 ├── 06-async-js/        # Promises, async/await
 ├── 07-react-thinking/  # Immutability, component patterns
-└── 08-task/        # All Tasks with same folder structure 
+└── 08-task/            # All Tasks with same folder structure 
 ```
 ---
 
