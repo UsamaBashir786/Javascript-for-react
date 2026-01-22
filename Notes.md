@@ -10,6 +10,7 @@ This repo covers the JS fundamentals that React uses constantly:
 - **Functions & Arrow Functions** – reusable logic, concise syntax, auto return  
 - **Arrays** – basic operations, immutability  
 - **Array Methods** – `map`, `filter`, `reduce`, `find`  
+- **Objects** – destructuring, spread operator, update/add properties  
 - **React Mindset** – how JS concepts apply to React  
 
 ---
@@ -56,9 +57,17 @@ This repo covers the JS fundamentals that React uses constantly:
 - Original array unchanged → React-friendly  
 - React use → select a single item (e.g., selected user or product)  
 
-### 9. Overall Mindset
+### 9. Objects
+- Create objects → `{ key: value }`  
+- Destructuring → `const {id, title} = obj`  
+- Spread operator → copy objects, update properties, add new properties  
+- Original object safe → React-friendly  
+- React use → state, props, immutability  
+
+### 10. Overall Mindset
 - Strong JS basics = easier React learning  
 - Functional programming mindset → map, filter, reduce, find  
 - Use `const` & arrow functions for React-friendly code  
+- Keep arrays/objects immutable for safe state management in React  
 
 ---
